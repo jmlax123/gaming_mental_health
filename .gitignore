@@ -1,1 +1,5 @@
-Gaming_Profiles_Data/
+Gaming_Profiles_Data/playstation/
+Gaming_Profiles_Data/steam/
+Gaming_Profiles_Data/xbox/
+Gaming_Profiles_Data.zip
+!Gaming_Profiles_Data/processed_tables/

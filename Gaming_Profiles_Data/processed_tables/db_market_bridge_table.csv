@@ -1,0 +1,29 @@
+bridge_id,gaming_platform,genre,market_genre_popularity,market_saturation_pct
+5001,Pc,Mobile games,39869,40.58
+5002,Pc,Moba,18018,18.34
+5003,Pc,Fps,38301,38.98
+5004,Pc,Rpg,16851,17.15
+5005,Pc,Battle royale,38301,38.98
+5006,Pc,Mmo,16851,17.15
+5007,Pc,Strategy,18018,18.34
+5008,Console,Mobile games,132,0.39
+5009,Console,Moba,1781,5.29
+5010,Console,Fps,6486,19.28
+5011,Console,Rpg,1446,4.3
+5012,Console,Battle royale,6486,19.28
+5013,Console,Mmo,1446,4.3
+5014,Console,Strategy,1781,5.29
+5015,Multi-platform,Mobile games,40001,30.33
+5016,Multi-platform,Moba,19799,15.01
+5017,Multi-platform,Fps,44787,33.96
+5018,Multi-platform,Rpg,18297,13.87
+5019,Multi-platform,Battle royale,44787,33.96
+5020,Multi-platform,Mmo,18297,13.87
+5021,Multi-platform,Strategy,19799,15.01
+5022,Mobile,Mobile games,40001,30.33
+5023,Mobile,Moba,19799,15.01
+5024,Mobile,Fps,44787,33.96
+5025,Mobile,Rpg,18297,13.87
+5026,Mobile,Battle royale,44787,33.96
+5027,Mobile,Mmo,18297,13.87
+5028,Mobile,Strategy,19799,15.01
